@@ -1,0 +1,26 @@
+{
+	"name": "weather-cli",
+	"version": "1.0.0",
+	"description": "CLI for getting weather",
+	"main": "index.js",
+	"bin": "./index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"cli",
+		"weather"
+	],
+	"author": "Egor Bistrov",
+	"license": "ISC",
+	"homepage": "https://github.com/e-number/CLI-Weather",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/e-number/CLI-Weather"
+	},
+	"bugs": {
+		"url": "https://github.com/e-number/CLI-Weather",
+		"email": "h75408706@gmail.com"
+	}
+}
